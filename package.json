@@ -1,0 +1,15 @@
+{
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "fetch-cookie": "^0.10.1",
+    "form-data": "^3.0.0",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0",
+    "tough-cookie": "^4.0.0",
+    "tough-cookie-file-store": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node test.js"
+  }
+}
